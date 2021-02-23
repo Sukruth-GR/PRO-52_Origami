@@ -1,0 +1,204 @@
+.head{
+      
+  background-color:rgb(185, 92, 92);
+  border:solid;
+   }
+
+   .note{
+     background-color:rgb(91, 115, 224);
+     border: dotted;
+   }
+
+.grid {
+  background: rgb(226, 175, 175);
+  background-color: #F0F8FF;
+  display: flex;
+  justify-content: last baseline;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+}
+
+.camel {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.camel img{
+  opacity:0.75;
+} 
+
+.camel:hover img{
+  opacity:1;
+} 
+
+.camel p{
+  opacity:0.25;
+} 
+
+.camel:hover p{
+  opacity:1;
+}
+
+.chameleon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.chameleon img{
+  opacity:0.75;
+} 
+
+.chameleon:hover img{
+  opacity:1;
+} 
+
+.chameleon p{
+  opacity:0.25;
+} 
+
+.chameleon:hover p{
+  opacity:1;
+}
+
+.cicada {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.cicada img{
+  opacity:0.75;
+} 
+
+.cicada:hover img{
+  opacity:1;
+} 
+
+.cicada p{
+  opacity:0.25;
+} 
+
+.cicada:hover p{
+  opacity:1;
+}
+
+.panda {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 400px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.panda img{
+  opacity:0.75;
+} 
+
+.panda:hover img{
+  opacity:1;
+} 
+
+.panda p{
+  opacity:0.25;
+} 
+
+.panda:hover p{
+  opacity:1;
+}
+
+.pigeon {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.pigeon img{
+  opacity:0.75;
+} 
+
+.pigeon:hover img{
+  opacity:1;
+} 
+
+.pigeon p{
+  opacity:0.25;
+} 
+
+.pigeon:hover p{
+  opacity:1;
+}
+
+.teddy {
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 500px;
+  padding: 50px;
+  background-color:rgb(255, 123, 46);
+}
+
+.teddy img{
+  opacity:0.75;
+} 
+
+.teddy:hover img{
+  opacity:1;
+} 
+
+.teddy p{
+  opacity:0.25;
+} 
+
+.teddy:hover p{
+  opacity:1;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-evenly;
+  opacity: 0.5;
+}
+
+.menu:hover{
+  opacity:1;
+} 
+
+.images{
+  display: flex;
+  justify-content: space-around;
+  opacity: 0.75;
+}
+
+.images:hover{
+  opacity: 1;
+}
+
+.about img{
+  opacity: 0.5;
+}
+
+.about:hover img{
+  opacity: 1;
+}
